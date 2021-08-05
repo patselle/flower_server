@@ -1,0 +1,30 @@
+{
+    "artifacts": [
+        {
+            "accuracy_global": 0.10000000149011612,
+            "accuracy_local": 0.10000000149011612,
+            "address": "ipv4:10.122.198.57:54603",
+            "id": "client0",
+            "loss_global": 2.3026225566864014,
+            "loss_local": 2.3026254177093506,
+            "num_test": 10000,
+            "num_train": 50000
+        },
+        {
+            "accuracy_global": 0.10000000149011612,
+            "accuracy_local": 0.10000000149011612,
+            "address": "ipv4:10.122.198.57:54594",
+            "id": "client0",
+            "loss_global": 2.3026225566864014,
+            "loss_local": 2.302647829055786,
+            "num_test": 10000,
+            "num_train": 50000
+        }
+    ],
+    "date": "02/12/2021, 13:57:11",
+    "elapsed_time": 55.31503970000267,
+    "failures": "[]",
+    "num_participants": 2,
+    "version": "00000",
+    "weights": "data/00000.weights"
+}
